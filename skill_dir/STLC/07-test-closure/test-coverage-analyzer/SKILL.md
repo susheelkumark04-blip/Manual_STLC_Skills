@@ -9,7 +9,7 @@ description: >-
   assumed coverage.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   stlc-phase: Test Closure
   version: 1.0.0
 ---

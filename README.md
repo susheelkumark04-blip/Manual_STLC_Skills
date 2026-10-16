@@ -6,7 +6,7 @@ A hands-on masterclass workspace for building reusable AI agent skills for QA an
 
 | Path | Purpose |
 |---|---|
-| `skillmasterclass/index.html` | Standalone Skill Masterclass web page by TheTestingAcademy. |
+| `skillmasterclass/index.html` | Standalone Skill Masterclass web page by SusheelKumar. |
 | `skillmasterclass/skills/README.md` | STLC-oriented skill-suite overview and installation notes. |
 | `skill_dir/STLC/` | Main STLC skill library, organized from requirement analysis through test closure. |
 | `skill_dir/STLC/01_jira-requirement-analyzer/` | Jira readiness-analysis skill that flags gaps, ambiguities, risks, and author questions. |

@@ -2,7 +2,7 @@
 
 > Generic software test plan template extracted and generalized from the
 > provided document.
-> Include Author Details Name : Prrammod Dutta
+> Include Author Details Name : SusheelKumar
 
 ------------------------------------------------------------------------
 

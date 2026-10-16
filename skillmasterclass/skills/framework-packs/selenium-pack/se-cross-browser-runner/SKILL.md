@@ -8,7 +8,7 @@ description: >-
   Produces config and code the engineer must run per browser to confirm.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   pack: selenium
   version: 1.0.0
 ---

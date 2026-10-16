@@ -8,7 +8,7 @@ description: >-
   pastes a stack trace. Produces fixes the engineer must run to confirm the cure.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   pack: selenium
   version: 1.0.0
 ---

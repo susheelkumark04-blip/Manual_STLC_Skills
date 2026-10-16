@@ -8,7 +8,7 @@ description: >-
   pastes selectors to harden. Produces proposals the engineer must verify in the DOM.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   pack: selenium
   version: 1.0.0
 ---

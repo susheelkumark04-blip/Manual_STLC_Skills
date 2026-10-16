@@ -8,7 +8,7 @@ description: >-
   Reasons only from evidence supplied; unknown links are marked as hypotheses to verify.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   stlc-phase: Defect Management
   version: 1.0.0
 ---

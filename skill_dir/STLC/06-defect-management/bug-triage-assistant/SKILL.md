@@ -8,7 +8,7 @@ description: >-
   routing is a suggestion for a human to confirm — it never auto-closes or reassigns silently.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   stlc-phase: Defect Management
   version: 1.0.0
 ---

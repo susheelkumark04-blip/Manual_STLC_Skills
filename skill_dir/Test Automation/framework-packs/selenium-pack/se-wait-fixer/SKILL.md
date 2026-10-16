@@ -8,7 +8,7 @@ description: >-
   full of hard sleeps. Produces refactors the engineer must run and confirm.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   pack: selenium
   version: 1.0.0
 ---

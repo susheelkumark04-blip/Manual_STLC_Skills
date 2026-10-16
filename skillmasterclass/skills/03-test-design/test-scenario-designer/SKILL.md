@@ -8,7 +8,7 @@ description: >-
   and traced back to the AC it exercises, then stops for review before test cases are written.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   stlc-phase: Test Design
   version: 1.0.0
 ---

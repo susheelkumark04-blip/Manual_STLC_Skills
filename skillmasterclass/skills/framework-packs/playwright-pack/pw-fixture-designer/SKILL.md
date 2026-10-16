@@ -8,7 +8,7 @@ description: >-
   in every test. Produces a typed fixtures module — a draft to wire in and run.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   pack: playwright
   version: 1.0.0
 ---

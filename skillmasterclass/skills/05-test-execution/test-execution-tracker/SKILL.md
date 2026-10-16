@@ -8,7 +8,7 @@ description: >-
   happened; anything unverified is marked "not run", never assumed green.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   stlc-phase: Test Execution
   version: 1.0.0
 ---

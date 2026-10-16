@@ -8,7 +8,7 @@ description: >-
   scenario it exercises, with a note on which are safe to use in which environment.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   stlc-phase: Test Case Development
   version: 1.0.0
 ---

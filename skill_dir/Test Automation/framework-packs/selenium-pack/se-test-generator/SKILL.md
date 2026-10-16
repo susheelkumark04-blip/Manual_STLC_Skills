@@ -8,7 +8,7 @@ description: >-
   Java WebDriver code. Produces a draft test the engineer must review and run.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   pack: selenium
   version: 1.0.0
 ---

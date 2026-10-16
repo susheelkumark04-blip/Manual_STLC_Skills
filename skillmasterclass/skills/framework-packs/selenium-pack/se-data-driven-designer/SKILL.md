@@ -8,7 +8,7 @@ description: >-
   Produces test scaffolding and data the engineer must run and review.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   pack: selenium
   version: 1.0.0
 ---

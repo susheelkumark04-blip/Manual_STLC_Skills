@@ -8,7 +8,7 @@ description: >-
   wants clean driver lifecycle for parallel runs. Produces code the engineer runs.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   pack: selenium
   version: 1.0.0
 ---

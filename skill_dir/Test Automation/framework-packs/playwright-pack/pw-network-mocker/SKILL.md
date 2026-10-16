@@ -8,7 +8,7 @@ description: >-
   backend flakiness — a draft the engineer wires in and runs.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   pack: playwright
   version: 1.0.0
 ---

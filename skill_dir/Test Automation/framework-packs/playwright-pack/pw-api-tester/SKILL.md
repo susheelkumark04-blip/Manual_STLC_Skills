@@ -8,7 +8,7 @@ description: >-
   negative/boundary tests — a draft the engineer runs against a real service.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   pack: playwright
   version: 1.0.0
 ---

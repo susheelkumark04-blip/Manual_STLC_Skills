@@ -8,7 +8,7 @@ description: >-
   idempotency, each case tied to the contract, then stops for review before cases are built.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   stlc-phase: Test Design
   version: 1.0.0
 ---

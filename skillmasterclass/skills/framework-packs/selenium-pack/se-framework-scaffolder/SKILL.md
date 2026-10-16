@@ -8,7 +8,7 @@ description: >-
   starter layout and files the engineer must build, run, and adapt.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   pack: selenium
   version: 1.0.0
 ---
