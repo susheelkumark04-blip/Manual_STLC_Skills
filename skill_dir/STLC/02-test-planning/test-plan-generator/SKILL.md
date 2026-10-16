@@ -8,7 +8,7 @@ description: >-
   test-plan template, and stops for human review before anything is treated as final.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: SusheelKumar
   stlc-phase: Test Planning
   version: 1.0.0
 ---
